@@ -1,0 +1,38 @@
+body{
+    background-size: cover;
+}
+.heading
+{
+    width: 100%;
+    font-size: 23px;
+    margin: 0;
+}
+#start , #object_status , #status
+{
+    font-size: 18px;
+}
+
+.copy_right_footer
+{
+    color: whitesmoke;
+    background-color: rgb(110, 215, 250);
+    text-align: center;
+    width: 100%;
+    line-height: 3;
+    position: fixed;
+    bottom: 0;
+}
+input{
+    width : 20%;
+}
+canvas
+{
+    box-shadow: 5px 5px 5px white;
+    border: 5px solid white;
+    border-radius: 20px;
+    margin-top: 130px;
+}
+p{
+    font-size: 18px;
+    color: black;
+}
